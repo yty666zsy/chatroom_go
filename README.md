@@ -33,7 +33,7 @@ go run main.go
 然后访问http://localhost:8000
 ```
 
-如图：![image-20241119170248434](C:\Users\yuzai\AppData\Roaming\Typora\typora-user-images\image-20241119170248434.png)
+如图：![image-20241119170248434](E:\go\project\test\image\image-20241119170248434.png)
 
 然后运行客户端代码
 
@@ -43,6 +43,6 @@ cd client
 go run main.go -name "名字"
 ```
 
-如图![image-20241119170546563](C:\Users\yuzai\AppData\Roaming\Typora\typora-user-images\image-20241119170546563.png)
+如图![image-20241119170546563](E:\go\project\test\image\image-20241119170546563.png)
 
 一个简易的基于go语言的在线聊天室就搭建完成了
